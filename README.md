@@ -1,2 +1,2 @@
 # Inteligencia-artificial-Prompts
-Preentrega2 - JoshueVega
+Repositorio preentrega2 - JoshueVega
